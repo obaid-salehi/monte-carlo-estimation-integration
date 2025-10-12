@@ -12,9 +12,9 @@ The simulation shows how averaging over a growing number of random points leads 
 
 ## Tools & Libraries
 - **Python**
-- **NumPy** — random number generation & vectorised arithmetic  
-- **matplotlib** — visualising the direct averaging process  
-- **time** — measuring runtime for performance comparison
+- **NumPy**: random number generation & vectorised arithmetic  
+- **matplotlib**: visualising the direct averaging process  
+- **time**: measuring runtime for performance comparison
 
 ---
 
